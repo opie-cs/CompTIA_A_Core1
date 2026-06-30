@@ -1,0 +1,8 @@
+USB-C // 24-pin double sided USB connector // acts as USB 2.0, 3.0, 1.3, 4 // Transmits other signals, DisplayPort, HDMI, Thunderbolt
+
+Lighting // 8-pin // older Apple devices // higher output than Micro USB used in many phones a the same time
+
+NFC (Near Field Communication) // send small amounts of data over limited area // built in to phones // can act as an identity token
+
+Hotspot/Tethering // Hotspot creates a wireless network for other devices to connect to // Tethering is using your phones wireless network to connect one other device to the network, often by USB
+
