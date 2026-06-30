@@ -1,0 +1,10 @@
+"Cell" // separates land into "cells"
+
+4G / LTE (Long Term Evolution) // based on GSM (Global System for Mobile Communications) and EDGE (Enhanced Data Rates for GSM Evolutions) // standard supports download rates of 150 Mbit/s
+
+5G // launched 2020 // can achieve 10 Gbits/s with slow speeds of 100-900 Mbits/s // More bandwidth which permits more IoT 
+
+802.11 (WiFi) // requires local access point, unlike Cell networks
+
+SIM (Subscriber Identity Module) // unique ID for cell devices // contains phone number, network info, contacts and messages, carrier
+
